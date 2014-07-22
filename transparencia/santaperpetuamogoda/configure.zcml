@@ -24,11 +24,13 @@
   <browser:resource
       name="SantaPerpetuaTheme.css"
       file="stylesheets/SantaPerpetuaTheme.css"
+      layer=".interfaces.ISantaPerpetuaLayer"
       />
 
   <browser:resource
       name="logoVILAIX.png"
       file="static/images/logoVILAIX.png"
+      layer=".interfaces.ISantaPerpetuaLayer"
       />
 
   <genericsetup:registerProfile

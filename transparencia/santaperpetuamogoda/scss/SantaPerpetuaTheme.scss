@@ -465,6 +465,7 @@ h1 {
     background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
     }
 .liniaBaix, .documentFirstHeading {
+    color: #650065;
     border-bottom: 1px solid #BEBEBE;
     box-shadow: none;
     margin: 0 10px 5px 0;
@@ -482,4 +483,21 @@ h1 {
 }
 #portal-column-content.span9 {
     margin-top: 0;
+}
+
+.portlet h3 a {
+    color: black;
+}
+
+.subnavbar .nav-list a {
+    font-size: 13px;
+    color: black;
+    font-weight: 600;
+    line-height: 16px;
+    text-shadow: none !important;
+}
+
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #555555;
 }

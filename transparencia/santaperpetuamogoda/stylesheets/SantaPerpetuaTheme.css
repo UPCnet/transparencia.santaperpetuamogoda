@@ -593,6 +593,7 @@ h1 {
 
 /* line 467, ../scss/SantaPerpetuaTheme.scss */
 .liniaBaix, .documentFirstHeading {
+  color: #650065;
   border-bottom: 1px solid #BEBEBE;
   box-shadow: none;
   margin: 0 10px 5px 0;
@@ -601,19 +602,39 @@ h1 {
   padding-top: 0;
 }
 
-/* line 475, ../scss/SantaPerpetuaTheme.scss */
+/* line 476, ../scss/SantaPerpetuaTheme.scss */
 .subnavbar .nav-list a {
   font-size: 13px;
   background-color: #D4D4D4;
   border-bottom: 1px solid #EEEEEE;
 }
 
-/* line 480, ../scss/SantaPerpetuaTheme.scss */
+/* line 481, ../scss/SantaPerpetuaTheme.scss */
 #content-area, #portal-column-content {
   margin-top: 25px;
 }
 
-/* line 483, ../scss/SantaPerpetuaTheme.scss */
+/* line 484, ../scss/SantaPerpetuaTheme.scss */
 #portal-column-content.span9 {
   margin-top: 0;
+}
+
+/* line 488, ../scss/SantaPerpetuaTheme.scss */
+.portlet h3 a {
+  color: black;
+}
+
+/* line 492, ../scss/SantaPerpetuaTheme.scss */
+.subnavbar .nav-list a {
+  font-size: 13px;
+  color: black;
+  font-weight: 600;
+  line-height: 16px;
+  text-shadow: none !important;
+}
+
+/* line 500, ../scss/SantaPerpetuaTheme.scss */
+body {
+  font-family: 'Cabin', sans-serif;
+  color: #555555;
 }

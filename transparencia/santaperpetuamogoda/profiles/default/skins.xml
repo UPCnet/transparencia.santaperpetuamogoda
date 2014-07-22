@@ -2,7 +2,7 @@
 <object name="portal_skins" default_skin="SantaPerpetuaTheme">
  <object name="santaperpetuatheme_custom"
     meta_type="Filesystem Directory View"
-    directory="transparenica.santaperpetuamogoda:skins/santaperpetuatheme_custom"/>
+    directory="transparencia.santaperpetuamogoda:skins/santaperpetuatheme_custom"/>
 
  <skin-path name="SantaPerpetuaTheme" based-on="TransparenciaTheme">
   <layer name="santaperpetuatheme_custom" insert-after="custom"/>

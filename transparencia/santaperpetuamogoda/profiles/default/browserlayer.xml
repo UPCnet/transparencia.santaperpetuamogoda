@@ -1,6 +1,6 @@
 <layers>
   <layer
-      name="SantaPerpetuaTheme"
-      interface="transparencia.santaperpetuamogoda.interfaces.ISantaPerpetuaLayer"
+      name="SantaPerpetuaTransparenciaTheme"
+      interface="transparencia.santaperpetuamogoda.interfaces.ISantaPerpetuaTransparenciaLayer"
   />
 </layers>

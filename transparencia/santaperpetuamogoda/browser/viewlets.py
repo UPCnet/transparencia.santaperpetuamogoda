@@ -29,7 +29,7 @@ from genweb.core.utils import genweb_config, havePermissionAtRoot, pref_lang
 
 from genweb.theme.browser.interfaces import IGenwebTheme
 #from genweb.theme.browser.viewlets import gwManagePortletsFallbackViewlet
-from transparencia.santaperpetuamogoda.browser.interfaces import ISantaPerpetuaTheme
+from transparencia.santaperpetuamogoda.browser.interfaces import ISantaPerpetuaTransparenciaTheme
 
 from plone.app.collection.interfaces import ICollection
 from genweb.core import HAS_CAS
@@ -67,7 +67,7 @@ class gwHeader(viewletBase):
     grok.name('genweb.header')
     grok.template('header')
     grok.viewletmanager(IPortalHeader)
-    grok.layer(ISantaPerpetuaTheme)
+    grok.layer(ISantaPerpetuaTransparenciaTheme)
 
     def get_image_class(self):
         if self.genweb_config().treu_menu_horitzontal:

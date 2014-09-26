@@ -18,19 +18,18 @@
 
   <browser:jbot
       directory="templates"
-      layer=".interfaces.ISantaPerpetuaLayer"
+      layer=".interfaces.ISantaPerpetuaTransparenciaLayer"
     />
 
   <browser:resource
-      name="SantaPerpetuaTheme.css"
-      file="stylesheets/SantaPerpetuaTheme.css"
-      layer=".interfaces.ISantaPerpetuaLayer"
+      name="SantaPerpetuaTransparenciaTheme.css"
+      file="stylesheets/SantaPerpetuaTransparenciaTheme.css"
       />
 
   <browser:resource
       name="logoVILAIX.png"
       file="static/images/logoVILAIX.png"
-      layer=".interfaces.ISantaPerpetuaLayer"
+      layer=".interfaces.ISantaPerpetuaTransparenciaLayer"
       />
 
   <genericsetup:registerProfile

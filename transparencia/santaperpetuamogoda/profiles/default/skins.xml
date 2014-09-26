@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
-<object name="portal_skins" default_skin="SantaPerpetuaTheme">
- <object name="santaperpetuatheme_custom"
+<object name="portal_skins" default_skin="SantaPerpetuaTransparenciaTheme">
+ <object name="santaperpetuatransparenciatheme_custom"
     meta_type="Filesystem Directory View"
-    directory="transparencia.santaperpetuamogoda:skins/santaperpetuatheme_custom"/>
+    directory="transparencia.santaperpetuamogoda:skins/santaperpetuatransparenciatheme_custom"/>
 
- <skin-path name="SantaPerpetuaTheme" based-on="TransparenciaTheme">
-  <layer name="santaperpetuatheme_custom" insert-after="custom"/>
+ <skin-path name="SantaPerpetuaTransparenciaTheme" based-on="TransparenciaTheme">
+  <layer name="santaperpetuatransparenciatheme_custom" insert-after="custom"/>
  </skin-path>
 
 </object>

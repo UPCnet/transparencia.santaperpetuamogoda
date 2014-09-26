@@ -5,9 +5,9 @@
     i18n_domain="transparencia.santaperpetuamogoda">
 
     <interface
-        interface=".interfaces.ISantaPerpetuaTheme"
+        interface=".interfaces.ISantaPerpetuaTransparenciaTheme"
         type="zope.publisher.interfaces.browser.IBrowserSkinType"
-        name="SantaPerpetuaTheme"
+        name="SantaPerpetuaTransparenciaTheme"
         />
 
 

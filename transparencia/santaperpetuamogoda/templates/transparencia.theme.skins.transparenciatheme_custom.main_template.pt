@@ -69,8 +69,7 @@
         <link rel="stylesheet" tal:attributes="href string:${portal_url}/++genweb++stylesheets/genwebupc.css">
         <link rel="stylesheet" tal:attributes="href string:${portal_url}/++vilaix++stylesheets/VilaixTheme.css">
         <link rel="stylesheet" tal:attributes="href string:${portal_url}/++transparencia++stylesheets/TransparenciaTheme.css">
-        <link rel="stylesheet" tal:attributes="href string:${portal_url}/++resource++SantaPerpetuaTheme.css">
-
+        <link rel="stylesheet" tal:attributes="href string:${portal_url}/++resource++SantaPerpetuaTransparenciaTheme.css">
 
     </tal:notajax>
 </head>
@@ -226,7 +225,6 @@
 
 
     <script tal:attributes="src string:${portal_url}/++genweb++js/main.js"></script>
-
 
 
     <script tal:attributes="src string:${portal_url}/++genweb++static/js/ios-orientationchange-fix.js"></script>

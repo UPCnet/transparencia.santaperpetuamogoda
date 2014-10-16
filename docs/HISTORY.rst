@@ -1,11 +1,11 @@
 Changelog
 =========
 
-1.0b3 (unreleased)
+1.0b3 (2014-10-16)
 ------------------
 
-- Nothing changed yet.
-
+* Modificat skinname era igual que el de GW Vilaix Sta Perpetua [Pilar Marinas]
+* Borrar codigo comentado [Pilar Marinas]
 
 1.0b2 (2014-07-22)
 ------------------

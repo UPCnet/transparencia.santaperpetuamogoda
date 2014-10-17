@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.0b4 (unreleased)
+1.0b4 (2014-10-17)
 ------------------
 
-- Nothing changed yet.
-
+* Afegir js typeahead handlebars [Pilar Marinas]
 
 1.0b3 (2014-10-16)
 ------------------

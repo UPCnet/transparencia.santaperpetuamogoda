@@ -1,11 +1,10 @@
 Changelog
 =========
 
-1.0b5 (unreleased)
+1.0b5 (2014-10-20)
 ------------------
 
-- Nothing changed yet.
-
+* Obsolete keywords.js [Pilar Marinas]
 
 1.0b4 (2014-10-17)
 ------------------

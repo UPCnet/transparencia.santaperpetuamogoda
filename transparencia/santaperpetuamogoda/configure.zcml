@@ -40,4 +40,10 @@
       provides="Products.GenericSetup.interfaces.EXTENSION"
       />
 
+  <browser:resource
+      name="favicon.ico"
+      file="static/images/favicon.ico"
+      layer=".interfaces.ISantaPerpetuaTransparenciaLayer"
+      />
+
 </configure>

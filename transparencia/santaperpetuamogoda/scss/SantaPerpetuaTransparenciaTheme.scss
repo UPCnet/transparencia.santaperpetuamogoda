@@ -501,3 +501,28 @@ body {
     font-family: 'Cabin', sans-serif;
     color: #555555;
 }
+
+.event.today {
+background: none repeat scroll 0 0 #650065 !important;
+border: 0 none !important;
+border-radius: 0 !important;
+color: white;
+text-shadow: none;
+}
+
+.event.details {
+    float: none !important;
+}
+
+.tt-suggestion.tt-cursor {
+  color: #fff;
+  background-color: #650065 !important;
+}
+
+.hCalendar-hidden {
+display: none;
+}
+
+.tooltip a:hover {
+color: white !important;
+}

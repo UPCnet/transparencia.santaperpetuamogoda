@@ -668,3 +668,14 @@ body {
 .tooltip a:hover {
   color: white !important;
 }
+
+/* line 530, ../scss/SantaPerpetuaTransparenciaTheme.scss */
+.subnavbar .nav-list .active ul a:hover, .subnavbar .nav-list .selected ul a:hover {
+  background-color: #f5f5f5 !important;
+}
+
+/* line 533, ../scss/SantaPerpetuaTransparenciaTheme.scss */
+.subnavbar .nav-list .active a, .subnavbar .nav-list .selected a {
+  background: none repeat scroll 0 0 #d4d4d4;
+  color: #000;
+}

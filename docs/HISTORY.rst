@@ -1,11 +1,13 @@
 Changelog
 =========
 
-1.0b6 (unreleased)
+1.0b6 (2014-10-22)
 ------------------
 
-- Nothing changed yet.
-
+* Que no surti documentAuthor [Pilar Marinas]
+* Modificar mida lletra [Pilar Marinas]
+* Treure color blau seleccionar navegacio [Pilar Marinas]
+* Modificar metadades, favicon i csstooltip calendar [Pilar Marinas]
 
 1.0b5 (2014-10-20)
 ------------------

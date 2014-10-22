@@ -534,3 +534,26 @@ color: white !important;
     background: none repeat scroll 0 0 #d4d4d4;
     color: #000;
 }
+
+body {
+    font-family: 'Cabin', sans-serif;
+    color: #555555;
+    font-size: 13px;
+}
+
+.liniaBaix, .documentFirstHeading {
+    border-bottom: 3px solid #650065;
+    font-size: 18px;
+    color: #650065;
+    box-shadow: none;
+    margin: 0px 10px 5px 0px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    padding-top: 0px;
+    text-transform: uppercase;
+}
+
+.subnavbar .nav-list .active a, .subnavbar .nav-list .selected a {
+    background: none repeat scroll 0px 0px #D4D4D4;
+    color: #000;
+}

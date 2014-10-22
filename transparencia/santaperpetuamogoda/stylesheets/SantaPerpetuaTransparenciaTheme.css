@@ -710,3 +710,9 @@ body {
 .documentAuthor {
   display: none;
 }
+
+/* line 565, ../scss/SantaPerpetuaTransparenciaTheme.scss */
+html {
+  background: none repeat scroll 0 0 #fff;
+  font-size: 100%;
+}

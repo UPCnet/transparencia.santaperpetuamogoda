@@ -1,11 +1,13 @@
 Changelog
 =========
 
-1.0b7 (unreleased)
+1.0b7 (2014-11-13)
 ------------------
 
-- Nothing changed yet.
-
+* Cambiar favicon que sale mal al visualizar pdf [Pilar Marinas]
+* Logo fons transparent [Pilar Marinas]
+* Solucionar html background blanco [Pilar Marinas]
+* Treure documentAuthor [Pilar Marinas]
 
 1.0b6 (2014-10-22)
 ------------------
